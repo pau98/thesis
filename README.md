@@ -1,0 +1,1 @@
+This repository contains the code and multimedia files created for the thesis. It contains the MATLAB files used for the analysis of the experimental results, the custom version of HiperLife used for the simulations, and multimedia files corresponding to specific Figures in the document.
